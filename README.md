@@ -1,7 +1,7 @@
 
-  # WEB
+  # Web
 ![](https://github.com/devjuniotales/nlw-01/blob/master/assets/home-backgroud%20(1).png?raw=true)
-  # MOBILE
+  # Mobile
 ![](https://github.com/devjuniotales/nlw-01/blob/master/assets/home-backgroud%20(2).png?raw=true)
 
 # 💻 Sobre projeto
