@@ -1,12 +1,17 @@
 
+  # Web
+![](https://github.com/devjuniotales/nlw-01/blob/master/assets/home-backgroud%20(1).png?raw=true)
+  # Mobile
+![](https://github.com/devjuniotales/nlw-01/blob/master/assets/home-backgroud%20(2).png?raw=true)
+
 # 💻 Sobre projeto
-O Chatty é um chat para atendimento de clientes em tempo real.
+Ecoleta é um projeto que conecta empresas á pessoas, resolvendo um grande problema de descarte de resíduos de lixos.
 
 # 🚀 Tecnologias 
 - Node.js
-- TypeScript
-- Socket.io
-- Express
+- React
+- React Native
+- Expo
 
 # Como contribuir
 - Faça um fork desse repositório;
@@ -15,4 +20,4 @@ O Chatty é um chat para atendimento de clientes em tempo real.
 - Faça push para a sua branch: git push origin minha-feature.
 
 # 📝 Licença
- Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/rocketseat-education/nlw-05-nodejs/blob/master/LICENSE.md) para mais detalhes.
+ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Rocketseat/nlw-01-starter/blob/master/LICENSE.md) para mais detalhes.
